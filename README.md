@@ -38,5 +38,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravm0200&show_icons=true&locale=en" alt="souravm0200" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravm0200&" alt="souravm0200" /></p>
-<img align="right" alt="Coding" width="900" src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif">
+<img align="right" alt="Coding" width="800" src="https://res.cloudinary.com/practicaldev/image/fetch/s--D-e-SdGc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/legnuefb30fdf1owkh98.gif">
 
