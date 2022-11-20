@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MERN.**
 
-- 🌱 I’m currently learning **Web Development,Software Testing,Computer Networks,Java Regex,Arduino Uno ATmega32**
+- 🌱 I’m currently learning **Web Development,Software Testing,Computer Networks,Java Regex,Arduino Uno ATmega328,Proteus**
 
 - 👯 I’m looking to collaborate on **a web project.**
 
