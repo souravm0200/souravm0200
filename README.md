@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **souravm0200@gmail.com**
 
-- ⚡ Fun fact **I want to do Web debeloping and networking too.**
+- ⚡ Fun fact **I want to do Web developing , software Developing and networking too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
