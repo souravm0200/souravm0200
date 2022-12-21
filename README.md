@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/souravm002" target="blank"><img src="https://img.shields.io/twitter/follow/souravm002?logo=twitter&style=for-the-badge" alt="souravm002" /></a> </p>
 
-- 🔭 I’m currently working on **MERN.**
+- 🔭 I’m currently working on **Quality Assuarance**
 
-- 🌱 I’m currently learning **Web Development,Software Testing,Computer Networks,Java Regex,Arduino Uno ATmega328,Proteus**
+- 🌱 I’m currently learning **Selenium,Web Development,Software Testing,Computer Networks,Java Regex,Arduino Uno ATmega328,Proteus**
 
 - 👯 I’m looking to collaborate on **a web project.**
 
