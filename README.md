@@ -9,17 +9,14 @@
 
 - 🔭 I’m currently working on **Quality Assuarance**
 
-- 🌱 I’m currently learning **Selenium,Web Development,Software Testing,Computer Networks,Java Regex,Arduino Uno ATmega328,Proteus**
+- 🌱 I’m currently learning **Selenium , Automated Testing , Manual Testing , JMeter**
 
-- 👯 I’m looking to collaborate on **a web project.**
-
-- 🤝 I’m looking for help with **Front-end Development.**
+- 🤝 I’m looking for help with **Automated Testing , Manual Testing**
 
 - 💬 Ask me about **Web Development and networking.**
 
 - 📫 How to reach me **souravm0200@gmail.com**
 
-- ⚡ Fun fact **I want to do Web developing , software Developing and networking too.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
