@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Automated Testing , Manual Testing**
 
-- 💬 Ask me about **Web Development and networking.**
+- 💬 Ask me about **Software Testing and ASP.Net MVC**
 
 - 📫 How to reach me **souravm0200@gmail.com**
 
