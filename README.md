@@ -1,6 +1,5 @@
 [![MasterHead](https://indoanalytica.com/static/images/bannerr.gif)](souravBhai)
 <h1 align="center" style ="background-color:slateblue">Hi 👋, I'm Sourav Mandal</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souravm0200&label=Profile%20views&color=0e75b6&style=flat" alt="souravm0200" /> </p>
